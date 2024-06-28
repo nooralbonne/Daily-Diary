@@ -42,9 +42,6 @@ This console application allows users to manage a daily diary text file using C#
 - .NET Core SDK for compiling and running the application.
 - Xunit for unit testing.
 
-## Contributors
-
-- [Your Name]
 
 ## License
 
