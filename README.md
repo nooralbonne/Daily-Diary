@@ -38,3 +38,9 @@ This console application allows users to manage a daily diary text file using C#
 - .NET Core SDK for compiling and running the application.
 - Xunit for unit testing.
 
+### Instructions for Use
+
+1. **Prerequisites**: Ensure you have the .NET Core SDK installed on your machine.
+2. **Setup**: Clone the repository, navigate to the project directory, build, and run the application using `dotnet`.
+3. **Using the Application**: Follow the on-screen menu options to add, delete, count, and read diary entries. Ensure `MyDiary.txt` is in the correct location relative to the executable.
+4. **Error Handling**: The application handles common errors gracefully and prompts the user for correct inputs.
