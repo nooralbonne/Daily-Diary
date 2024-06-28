@@ -33,16 +33,8 @@ This console application allows users to manage a daily diary text file using C#
 - Handles exceptions during file operations (e.g., file not found, invalid date format).
 - Validates user input to ensure correct format for date entries.
 
-## Stretch Goals
-
-- Implement a search feature to find entries based on date or keyword within content.
-
 ## Dependencies
 
 - .NET Core SDK for compiling and running the application.
 - Xunit for unit testing.
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
